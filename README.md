@@ -12,7 +12,7 @@
 - `/cancel` - Oyundan çıkmak için gerekli olan komuttur..
 
 #### Railway Deploy
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/ClAT3Z)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Yphafa?referralCode=WGQSLA)
 
 
 #### Düzen tasarım
