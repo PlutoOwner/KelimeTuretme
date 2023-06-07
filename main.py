@@ -19,7 +19,7 @@ API_ID = getenv("API_ID")
 API_HASH = getenv("API_HASH")
 TOKEN = getenv("TOKEN")
 USERNAME = getenv("USERNAME")
-USERNAME = getenv("CHANNEL", "PlutoKanal")
+CHANNEL = getenv("CHANNEL", "PlutoKanal")
 OWNER_ID = getenv("OWNER_ID", "6212293158")
 
 if OWNER_ID and len(OWNER_ID) and OWNER_ID.isdigit():
